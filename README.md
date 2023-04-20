@@ -6,4 +6,4 @@ File: readme.md
 
 Date: 10/15/22
 
-Description: A collection of execises from the semester, introduction to programming course in python3.
+Description: A collection of exercises from the semester, introduction to programming course in python3.
